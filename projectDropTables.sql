@@ -1,0 +1,15 @@
+drop table LocationType
+drop table RoomBookingConfirmation
+drop table Review
+drop table Discount
+drop table Payment
+drop table BookingHistory
+drop table Booking
+drop table Offer
+drop table Subscription
+drop table Customer
+drop table Room
+drop table Hotel
+drop table RoomType
+drop table HotelType
+drop table HotelLocation

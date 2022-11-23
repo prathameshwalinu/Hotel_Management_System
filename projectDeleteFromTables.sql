@@ -1,0 +1,15 @@
+delete from LocationType
+delete from RoomBookingConfirmation
+delete from Review
+delete from Discount
+delete from Payment
+delete from BookingHistory
+delete from Booking
+delete from Offer
+delete from Subscription
+delete from Customer
+delete from Room
+delete from Hotel
+delete from RoomType
+delete from HotelType
+delete from HotelLocation
